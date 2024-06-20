@@ -6,8 +6,8 @@ This is designed to be a companion app to my OPL build that not only supports Ga
 
 ## Instructions
 
-1. Put the compiled `BOOT.ELF` file in a folder titled "BOOT" on the PS2 memory card in slot 0.
-2. In OPL, go to "Settings" and set the "IGR Path" to `mc0:/BOOT/BOOT.ELF`.
+1. Put the compiled `BOOT.ELF` file in a folder titled "BOOT" on a PS2 memory card in slot 0 or slot 1.
+2. In OPL, go to "Settings" and set the "IGR Path" to `mc0:/BOOT/BOOT.ELF` for slot 0 or `mc1:/BOOT/BOOT.ELF` for slot 1.
 
 ## Notes
 

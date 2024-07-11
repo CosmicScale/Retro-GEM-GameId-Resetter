@@ -1,6 +1,6 @@
 EE_BIN = GameIdResetter.elf
 EE_BIN_STRIPPED = GameIdResetterStripped.elf
-EE_BIN_PACKED = BOOT.ELF
+EE_BIN_PACKED = BOOT/BOOT.ELF
 EE_OBJS = main.o
 EE_LIBS = -L$(PS2SDK)/ports/lib -L$(PS2DEV)/gsKit/lib/ -ldmakit -lgskit
 

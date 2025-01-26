@@ -7,7 +7,7 @@ This app was designed as a companion to my [OPL build](https://github.com/Cosmic
 ## Instructions
 
 1. Put the `BOOT` folder on a PS2 memory card in memory card slot 0 or slot 1.
-2. In OPL, go to `Settings` and set the `IGR Path` to `mc0:/BOOT/BOOT.ELF` for slot 0 and `mc0:/BOOT/BOOT.ELF` for slot 1.
+2. In OPL, go to `Settings` and set the `IGR Path` to `mc0:/BOOT/BOOT.ELF` for slot 0 and `mc1:/BOOT/BOOT.ELF` for slot 1.
 
 ## Notes
 
